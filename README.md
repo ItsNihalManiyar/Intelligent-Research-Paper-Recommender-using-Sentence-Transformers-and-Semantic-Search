@@ -63,7 +63,7 @@ project-root/
 
 1. Clone or navigate into the project directory:
    ```bash
-   cd "Research Paper Recommender System"
+   cd "Intelligent-Research-Paper-Recommender-using-Sentence-Transformers-and-Semantic-Search"
    ```
 
 2. Install dependencies:
