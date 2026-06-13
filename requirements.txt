@@ -1,0 +1,15 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+pypdf
+keybert
+scikit-learn
+matplotlib
+plotly
+requests
+pytest
+python-multipart
