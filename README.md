@@ -151,4 +151,11 @@ pytest tests/
 
 ## Screenshots
 
-*(Upload and add screenshots of Streamlit interface cards, similarity score progress bars, and the favorites section)*
+### Semantic Search
+
+<img width="1470" height="956" alt="Semantic Search" src="https://github.com/user-attachments/assets/e77df00e-38ac-477d-99da-fadcad77a6d1" />
+
+### Search via PDF
+
+<img width="1470" height="956" alt="Search via PDF" src="https://github.com/user-attachments/assets/c9f3df04-e68e-49ad-84a2-508e6a15a006" />
+
